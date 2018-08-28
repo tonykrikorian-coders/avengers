@@ -1,4 +1,5 @@
 # Misiones
 
-  *Investigar al Dr Doom
-  *Capturar a Redskull
+  * Investigar al Dr Doom
+  * Capturar a Redskull
+  * Asesinar a Dr Strange
